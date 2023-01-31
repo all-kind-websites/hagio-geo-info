@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/hagio-geo-info/static/css/main.74efa5db.css",
-    "main.js": "/hagio-geo-info/static/js/main.28d891f2.js",
+    "main.css": "/hagio-geo-info/static/css/main.fa788d73.css",
+    "main.js": "/hagio-geo-info/static/js/main.8bc18bb8.js",
     "static/media/agioiPantes.png": "/hagio-geo-info/static/media/agioiPantes.ec2fa59873f83fb23c5d.png",
     "static/media/google-play-badgeGR.png": "/hagio-geo-info/static/media/google-play-badgeGR.53c2ecdb7d5afa1746f4.png",
-    "static/media/google-play-badgeEN.png": "/hagio-geo-info/static/media/google-play-badgeEN.f902960a94878ee0da67.png",
     "index.html": "/hagio-geo-info/index.html",
-    "main.74efa5db.css.map": "/hagio-geo-info/static/css/main.74efa5db.css.map",
-    "main.28d891f2.js.map": "/hagio-geo-info/static/js/main.28d891f2.js.map"
+    "main.fa788d73.css.map": "/hagio-geo-info/static/css/main.fa788d73.css.map",
+    "main.8bc18bb8.js.map": "/hagio-geo-info/static/js/main.8bc18bb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.74efa5db.css",
-    "static/js/main.28d891f2.js"
+    "static/css/main.fa788d73.css",
+    "static/js/main.8bc18bb8.js"
   ]
 }
